@@ -1,0 +1,8 @@
+Arduino sketch for measuring the outside temperature with one LM35 sensor and display it on an LCD display
+
+On our official project blog https://sites.google.com/site/phonedroneboard/home we described this project completly under 
+name "Phone Drone Board v1.0" => 5) Read the temperature with LM35 and publish the information on the LCD display
+
+For any additional questions you should contact me on this e-mail adress:
+
+john.scoferberg@gmail.com
